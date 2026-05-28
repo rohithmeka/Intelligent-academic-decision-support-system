@@ -1,4 +1,3 @@
-# Intelligent-academic-decision-support-system
 # Intelligent Academic Decision Support System 
 
 A futuristic AI-powered academic analytics dashboard designed to help students identify the most suitable engineering specialization based on their skills, interests, and academic strengths.
